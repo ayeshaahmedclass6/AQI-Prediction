@@ -20,8 +20,8 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install hopsworks==4.2.*
-          pip install pandas numpy scikit-learn tensorflow joblib
+          pip install hopsworks[python]==4.2.*
+          pip install pandas numpy scikit-learn tensorflow joblib pyarrow
 
       - name: Run Training Pipeline
         env:
