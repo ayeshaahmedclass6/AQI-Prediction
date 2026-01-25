@@ -1,6 +1,9 @@
 # ================= feature_pipeline/fetch_aqi_hourly.py =================
 import requests
 import pandas as pd
+from dotenv import load_dotenv
+
+load_dotenv() 
 
 # ---------------- CONFIG ----------------
 AQICN_TOKEN = "59741dd6dd39e39a9380da6133bc2f0fe1656336"
