@@ -57,7 +57,8 @@ pip install -r requirements.txt
 
 ### 3. Configure environment
 #### Create a .env file with your Hopsworks API key
-##### HOPSWORKS_API_KEY="your_api_key_here"
+##### HOPSWORKS_API_KEY="m0Gtiak8ESFhLCN4.GH2AXrrUWpmj7kygOmdLNXBwOVRG5YLVjvVxRT3mz5VF5DrkCqV0CQKrZ7az5UBS"
+##### AQICN_TOKEN="59741dd6dd39e39a9380da6133bc2f0fe1656336"
 
 The system prioritizes **Random Forest Regression** due to its ability to capture non-linear relationships between weather variables and pollution.
 Benchmark models include:
@@ -66,4 +67,5 @@ Benchmark models include:
 
 
 > “Providing data-driven clarity for a cleaner, safer Karachi.”
+
 
