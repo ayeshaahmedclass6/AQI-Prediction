@@ -47,7 +47,7 @@ The project is divided into three primary automated pipelines:
 
 # 🚀 Installation & Setup
 ### 1. Clone the repository
-git clone https://github.com/YourUsername/AQI-Prediction.git
+https://github.com/AyeshaAhmed-cs/AQI-Prediction
 cd AQI-Prediction
 
 
@@ -66,3 +66,4 @@ Benchmark models include:
 
 
 > “Providing data-driven clarity for a cleaner, safer Karachi.”
+
